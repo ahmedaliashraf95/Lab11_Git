@@ -7,3 +7,4 @@ storage_bytes = storage_kb * 1024
 print("Storage in MB: ", storage_mb)
 print("Storage in KB: ", storage_kb)
 print("Storage in bytes: ", storage_bytes)
+print("Calculation completed!")
